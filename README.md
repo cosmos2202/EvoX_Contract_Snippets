@@ -1,4 +1,3 @@
-# EvoX_Contract_Snippets
-EvoX_Contract_Snippets
-
-run snippet.html
+#EvoX_Contract_Snippets
+1. npm i
+2. serve -s build
